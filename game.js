@@ -316,6 +316,6 @@ var Snake = (function () {
 
 Snake.start(8);
 Snake.setup.keyboard(true);
-Snake.setup.fixedTail(false);
+Snake.setup.fixedTail(true);
 
 // thx for waiting for me 😂🥲
